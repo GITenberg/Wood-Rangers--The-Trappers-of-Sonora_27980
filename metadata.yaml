@@ -1,0 +1,35 @@
+_repo: Wood-Rangers--The-Trappers-of-Sonora_27980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Trappers -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Sonora (Mexico : State) -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: 'Wood Rangers: The Trappers of Sonora'
+url: http://www.gutenberg.org/ebooks/27980
